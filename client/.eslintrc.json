@@ -1,0 +1,1 @@
+{ "no-unused-vars": ["error", { "varsIgnorePattern": "[iI]gnored" }] }
